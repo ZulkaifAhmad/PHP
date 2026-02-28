@@ -7,7 +7,9 @@
 </head>
 <body>
     <?php
+        define("name","zulkaif");
         echo "<h1>Welcom to PHP</h1>";
+
         echo "<br>";
         $firstVariable = "myFirstVariable";
         echo "<h1>" . $firstVariable . "</h1>";
@@ -52,12 +54,12 @@
 
         echo "<br>";
 
-        echo (true xor true) // false
-        echo (false xor false) // false and the rest is true
+        echo (true xor true); // false
+        echo (false xor false); // false and the rest is true
 
         echo "<br>";
 
-        
+        echo name ; // this is constand variable
 
 
     ?>

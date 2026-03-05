@@ -3,7 +3,7 @@
 ## 📌 Introduction
 
 This repository contains my practice code for **PHP (Hypertext Preprocessor)**.  
-I am using this repository to improve my understanding of PHP fundamentals and backend development concepts.
+I am using this repository to improve my understanding of PHP fundamentals 
 
 The purpose of this repository is learning, experimenting, and strengthening core PHP concepts.
 
